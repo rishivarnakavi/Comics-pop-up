@@ -1,4 +1,4 @@
-comics
+Comics Pop-up
 ======
 
 Pop a Comic Strip every hour to drive out boredom. 
